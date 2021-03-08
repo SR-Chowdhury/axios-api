@@ -13,6 +13,9 @@ _then install axiox; so agin type in terminal_
 _[N.B. Even you can use axios CDN]_
 
     <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    
+**Then add ``import axios from 'axios'`` in index.js file**    
+
 **Finally run :**
     
     npm start
